@@ -15,7 +15,7 @@
   >
   > Variáveis
   >
-  > Reset 
+ 
    
 </br>
 
