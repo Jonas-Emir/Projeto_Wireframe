@@ -11,9 +11,9 @@
   ### Teve como objetivo aplicar :hammer_and_wrench:
   > Flex box
   >
-  > Responsividade
+  > Responsive
   >
-  > Variáveis
+  > Variables
   >
  
    
